@@ -5,6 +5,7 @@ namespace InnocentGuardPart3
     
     class TaskItem
     {
+        // the database properties 
         public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
